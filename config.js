@@ -17,7 +17,7 @@ global.APIKeys = {
 }
 
 //Owner React
-global.AUTO_REACT = 'true'
+global.AUTO_REACT = 'false'
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
 global.REACT_NUMBER = '9476342733' //මෙතන number එක.
 
