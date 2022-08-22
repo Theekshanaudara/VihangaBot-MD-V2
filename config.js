@@ -1,5 +1,5 @@
 //SOME ENCRYPTED FILES
-//THANKS FOR CHOOSING VIHANGAMD
+//THANKS FOR CHOOSING THEEKSHANAMD
 
 const fs = require('fs')
 const chalk = require('chalk')
